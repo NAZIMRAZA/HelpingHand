@@ -1,0 +1,6 @@
+{
+  "name": "Nazcom by Nazcorp",
+  "description": "An AI-powered website builder (Nazcom) that generates full websites from simple prompts using advanced LLM templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Website Generation", "Template Customization", "Admin Dashboard", "Firebase Authentication"]
+}
